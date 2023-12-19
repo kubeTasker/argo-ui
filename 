@@ -1,0 +1,197 @@
+[33mcommit 8579ea4b9051194b4f44eb6b4074535b2d07f584[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: 717yuyugit config --global user.email 958524967@qq.comgit config --global user.name 717yuyu <958524967@qq.com>
+Date:   Tue Dec 19 18:01:30 2023 +0800
+
+    nav-bar
+
+[33mcommit c65a9520366b0c0cf0ac585618d029e60041a94d[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Sat Dec 9 12:51:38 2023 +0000
+
+    build(deps): bump actions/stale from 8 to 9 (#490)
+    
+    Bumps [actions/stale](https://github.com/actions/stale) from 8 to 9.
+    - [Release notes](https://github.com/actions/stale/releases)
+    - [Changelog](https://github.com/actions/stale/blob/main/CHANGELOG.md)
+    - [Commits](https://github.com/actions/stale/compare/v8...v9)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: actions/stale
+      dependency-type: direct:production
+      update-type: version-update:semver-major
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+    Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+[33mcommit 5ff344ac9692c14dd108468bd3c020c3c75181cb[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Sat Oct 28 12:57:58 2023 +0000
+
+    build(deps): bump actions/setup-node from 3 to 4 (#468)
+    
+    Bumps [actions/setup-node](https://github.com/actions/setup-node) from 3 to 4.
+    - [Release notes](https://github.com/actions/setup-node/releases)
+    - [Commits](https://github.com/actions/setup-node/compare/v3...v4)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: actions/setup-node
+      dependency-type: direct:production
+      update-type: version-update:semver-major
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+    Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+[33mcommit 554c62086b59e3203c670bf4cd4cdcece1c9cc27[m
+Author: Rafal <rafpelczar@gmail.com>
+Date:   Wed Oct 11 16:50:05 2023 +0200
+
+    fix: dark mode improvements (#462)
+    
+    Signed-off-by: Rafal Pelczar <rafal@akuity.io>
+
+[33mcommit 76fa7c1ae65503c2c9730eb4fa95402ac05c815c[m
+Author: Lukas Grossar <lukas.grossar@adfinis.com>
+Date:   Wed Sep 13 20:48:08 2023 +0200
+
+    Update fonts to include correct Helm icon (#363)
+    
+    This is a follow-up to #287
+    
+    Signed-off-by: Lukas Grossar <lukas.grossar@adfinis.com>
+
+[33mcommit 002d01b18e8aaf4b21307a3b87341ab05230483f[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Sat Sep 9 12:21:00 2023 +0000
+
+    build(deps): bump actions/checkout from 3 to 4 (#443)
+    
+    Bumps [actions/checkout](https://github.com/actions/checkout) from 3 to 4.
+    - [Release notes](https://github.com/actions/checkout/releases)
+    - [Changelog](https://github.com/actions/checkout/blob/main/CHANGELOG.md)
+    - [Commits](https://github.com/actions/checkout/compare/v3...v4)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: actions/checkout
+      dependency-type: direct:production
+      update-type: version-update:semver-major
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+    Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+[33mcommit 44accf19a31636ca2767526cf4a7e58ea5faff7a[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Sat Sep 9 12:06:37 2023 +0000
+
+    build(deps-dev): bump ts-loader from 9.4.3 to 9.4.4 (#441)
+    
+    Bumps [ts-loader](https://github.com/TypeStrong/ts-loader) from 9.4.3 to 9.4.4.
+    - [Release notes](https://github.com/TypeStrong/ts-loader/releases)
+    - [Changelog](https://github.com/TypeStrong/ts-loader/blob/main/CHANGELOG.md)
+    - [Commits](https://github.com/TypeStrong/ts-loader/compare/v9.4.3...v9.4.4)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: ts-loader
+      dependency-type: direct:development
+      update-type: version-update:semver-patch
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+    Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+[33mcommit fe55f81812ef1edbf888efee183d92d553035f40[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Sat Sep 2 13:03:26 2023 +0000
+
+    build(deps): bump rxjs from 7.5.6 to 7.8.1 (#440)
+    
+    Bumps [rxjs](https://github.com/reactivex/rxjs) from 7.5.6 to 7.8.1.
+    - [Changelog](https://github.com/ReactiveX/rxjs/blob/7.8.1/CHANGELOG.md)
+    - [Commits](https://github.com/reactivex/rxjs/compare/7.5.6...7.8.1)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: rxjs
+      dependency-type: direct:production
+      update-type: version-update:semver-minor
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+    Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+[33mcommit 3d5207b6f0c2ddb15666664ad91e1983b3da30f4[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Sat Sep 2 12:59:36 2023 +0000
+
+    build(deps-dev): bump @storybook/addon-actions from 7.0.20 to 7.4.0 (#439)
+    
+    Bumps [@storybook/addon-actions](https://github.com/storybookjs/storybook/tree/HEAD/code/addons/actions) from 7.0.20 to 7.4.0.
+    - [Release notes](https://github.com/storybookjs/storybook/releases)
+    - [Changelog](https://github.com/storybookjs/storybook/blob/next/CHANGELOG.md)
+    - [Commits](https://github.com/storybookjs/storybook/commits/v7.4.0/code/addons/actions)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: "@storybook/addon-actions"
+      dependency-type: direct:development
+      update-type: version-update:semver-minor
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+    Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+[33mcommit 31c49ed727c28aaca411ce18b9f14f355f4a644c[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Sat Sep 2 12:56:18 2023 +0000
+
+    build(deps-dev): bump @types/uuid from 9.0.1 to 9.0.3 (#435)
+    
+    Bumps [@types/uuid](https://github.com/DefinitelyTyped/DefinitelyTyped/tree/HEAD/types/uuid) from 9.0.1 to 9.0.3.
+    - [Release notes](https://github.com/DefinitelyTyped/DefinitelyTyped/releases)
+    - [Commits](https://github.com/DefinitelyTyped/DefinitelyTyped/commits/HEAD/types/uuid)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: "@types/uuid"
+      dependency-type: direct:development
+      update-type: version-update:semver-patch
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+    Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+[33mcommit 267f3548c67041abc6c846587df29f4e7e7afa2a[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Sat Sep 2 12:53:01 2023 +0000
+
+    build(deps-dev): bump @storybook/addon-links from 6.5.16 to 7.4.0 (#434)
+    
+    Bumps [@storybook/addon-links](https://github.com/storybookjs/storybook/tree/HEAD/code/addons/links) from 6.5.16 to 7.4.0.
+    - [Release notes](https://github.com/storybookjs/storybook/releases)
+    - [Changelog](https://github.com/storybookjs/storybook/blob/next/CHANGELOG.md)
+    - [Commits](https://github.com/storybookjs/storybook/commits/v7.4.0/code/addons/links)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: "@storybook/addon-links"
+      dependency-type: direct:development
+      update-type: version-update:semver-major
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+    Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+[33mcommit 7e6988ebd19971c68795a653f6e65fd0d13e3b3e[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Sat Sep 2 12:48:58 2023 +0000
+
+    build(deps): bump core-js from 3.30.2 to 3.32.1 (#433)
+    
+    Bumps [core-js](https://github.com/zloirock/core-js/tree/HEAD/packages/core-js) from 3.30.2 to 3.32.1.
+    - [Release notes](https://github.com/zloirock/core-js/releases)
