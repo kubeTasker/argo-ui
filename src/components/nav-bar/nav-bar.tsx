@@ -23,13 +23,10 @@ export function isActiveRoute(locationPath: string, path: string) {
 
 export const NavBar: React.FunctionComponent<NavBarProps> = (props: NavBarProps, context: AppContext) => {
     const locationPath = context.router.route.location.pathname;
-    const navBarStyle = {
-        ...(props.style?.backgroundColor && {background: `linear-gradient(to bottom, ${props.style?.backgroundColor}, #999`}),
-    };
     return (
         <div className={classNames('nav-bar', {
             'nav-bar--compact': (props.items || []).length >= 10,
-        })} style={navBarStyle}>
+        })}>
             <div className='nav-bar__logo'>
                 <img src='assets/images/logo.png' alt='Argo'/>
                 <div className='nav-bar__version'>{props.version && props.version()}</div>

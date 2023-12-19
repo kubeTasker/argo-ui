@@ -4,13 +4,14 @@ $nav-break-height-md: 900px;
 $nav-break-height-sm: 746px;
 
 .nav-bar {
+    display: none;
     position: fixed;
     top: 0;
     left: 0;
     bottom: 0;
-    padding-top: 160px;
+    padding-top: 0px;
     z-index: $nav-z-index;
-    width: $nav-width;
+    width: 0px;
     background: linear-gradient(to bottom, #333, #444, #555, #666, #999);
     box-shadow: inset -2px 0 4px 0 rgba(0,0,0,0.59);
 
